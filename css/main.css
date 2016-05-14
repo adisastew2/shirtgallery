@@ -9,3 +9,6 @@ body {
 .container {
 	text-align: center;
 }
+.bg1 {
+	background-image: url("../img/bg1.jpg");
+}
